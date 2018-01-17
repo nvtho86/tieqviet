@@ -1,0 +1,15 @@
+
+body {
+    background-color: #ced7e5;
+    margin: auto;
+    font: 13px/20px normal Helvetica, Arial, sans-serif;
+    color: #4F5155;
+    padding: 20px;
+}
+.show-data-coppy{
+    background: #fff;
+    width: 16.2%;
+    margin: auto;
+    text-align: left;
+    padding: 5px;
+}
